@@ -48,7 +48,7 @@
 	*	**Each map divided into small square grid has file (json, txt, . . .)-> need to learn**
 	*   **Each small square has states(follow iamges)**
 		_Dưới đây là danh sách của asset(Hà Anh Tuấn):
-		1. Normal Bình thường
+		1. Bình thường
 		2. Tree mode
 		3. Có nhà của player 1 
 		4. Có nhà của player 2
