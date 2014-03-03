@@ -26,7 +26,7 @@
 	*	_Daily meeting miss Monday(except weekend)_
 		* [Solution] Using google docs for remote daily meeting. Link reference : https://docs.google.com/spreadsheet/ccc?key=0AmxSdc7tfjMRdDlpeUR3ZjRzbEJqZWNJcjd1cUx5b1E&usp=sharing#gid=0
 		
-		  #####**Rules for remote daily meeting: online and type at the same time(10:30pm - Moday)**	 
+		  #####**Rules for remote daily meeting: online and type at the same time(10:00pm - Moday)**	 
 	
 
 
