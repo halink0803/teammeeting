@@ -1,6 +1,6 @@
 ##1st WEEKLY MEETING
 
-Main content:
+*__Main content__*:
 - Review work that we've done for this week.
 	+ Scenes are completed:
 		- Start Scene - Ha
